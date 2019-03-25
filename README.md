@@ -14,6 +14,8 @@ Studies serve for delight, for ornament, and for ability. Their chief use for de
 
 ## 学习笔记
 
+- [机器学习](study_notes/机器学习.md)
+
 ## 工作记录
 
 ## 心情日记
